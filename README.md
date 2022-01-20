@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dishant</h1>
 <h3 align="center">An Enthusiastic Android Developer from India</h3>
 
-- 🔭 I’m currently working on project [Socially](https://github.com/priyanshu003/Socially)
-
 - 👯 I’m looking to collaborate on **Android Projects**
 
 - 📫 How to reach me **ddshah02@gmail.com**
